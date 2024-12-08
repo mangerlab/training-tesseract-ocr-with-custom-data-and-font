@@ -2,7 +2,7 @@
 
 # Important
 
-**These instructions do not support LSTM models, it is better to stack pre-trained models as I discovered later.**
+**These instructions do not support LSTM models, it is better to stack pre-trained models as I discovered later. The updated instructions are here: https://github.com/mangerlab/training-tesseract-ocr-with-custom-data-and-font-2**
 
 Based on https://medium.com/@riasharma.indian/training-tesseract-ocr-with-custom-data-and-font-cf9e94429b4a by Ria.
 
